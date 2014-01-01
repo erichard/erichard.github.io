@@ -1,0 +1,10 @@
+title:        Mémoire Cnam
+tagline:      Rédaction d'un mémoire d'ingénieur pour le Cnam
+description:  ''
+author:
+  name:       'Erwan Richard'
+  email:      'erwann.richard@gmail.com'
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
+paginate:     5
