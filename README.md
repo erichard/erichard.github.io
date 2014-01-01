@@ -1,4 +1,4 @@
 memoire-faros
 =============
 
-Projet de mémoire d'ingénieur basé sur 
+Rédaction d'un mémoire d'ingénieur pour le Cnam.
